@@ -6,6 +6,7 @@
   
 在test.py可以看到引用好的資料集(包括查看data, 空值, 統計資訊)  
 製作順序為文本向量.py >> 查看資料集.py >> 文本向量圖示化.py  
+  
 資料集、向量化後的資料集路徑:  
 https://drive.google.com/drive/folders/1rKZlHaMYAZUsrEhyENoGrzqTKLPanuE0?usp=drive_link  
   
