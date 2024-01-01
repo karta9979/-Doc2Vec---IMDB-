@@ -1,5 +1,5 @@
 # 利用Doc2Vec---IMDB-
-1.本研究僅為學習之用
+1.本研究僅為學習之用  
 2.IMDB.csv 為本次主題的資料集
 3.output_with_custom_vector_title.csv 是加入文本向量化的資料集(將數據整合到同一行)(可以看前面的統計資訊)
 4.output.csv 是加入文本向量化的資料集(將數據分開'vec_0' ~ 'vec_19)
